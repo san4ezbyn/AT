@@ -1,6 +1,3 @@
-# AT
-Automation Mentoring program.
-Lead mentor: His lordship Andrew Zaitsev.
-Lead of the lead: His Majesty Kiryl Karpov.
-
-NEW TEXT 
+#ERGFQF
+45623453245
+regt4w5t34fwsdf
