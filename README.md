@@ -1,4 +1,4 @@
 # AT
-automation mentoring program
-lead mentor: His lordship Andrew Zaitsev
-lead of the lead: His Majesty Kiryl Karpov 
+Automation Mentoring program.
+Lead mentor: His lordship Andrew Zaitsev.
+Lead of the lead: His Majesty Kiryl Karpov. 
