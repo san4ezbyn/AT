@@ -6,8 +6,8 @@ Lead of the lead: His Majesty Kiryl Karpov.
 
 NEW TEXT 
 
-commit from MASTER
 
-
-commit from BRANCH
->>>>>>> mybranch
+=======
+............
+............
+............
